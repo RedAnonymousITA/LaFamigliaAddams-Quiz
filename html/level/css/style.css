@@ -1,0 +1,55 @@
+body {
+    background: #000;
+    text-align: left;
+    
+} 
+.text-menu{
+    color: red;
+    font-style: italic;
+    text-align: center;
+    text-decoration: double;
+}
+
+#bt-game{
+    background:red;
+    color: #000;
+    border-radius: 10px 10px;
+    border: 0px;
+    border: solid 10px red;
+
+}
+
+.menu{
+    background:red;
+    color: #000;
+    border-radius: 10px 10px;
+    border: 0px;
+    margin: 5px;
+}
+#bt-credit{
+    background:red;
+    color: #000;
+    border-radius: 10px 10px;
+    border: 0px;
+}
+#bt-github{
+    background:red;
+    color: #000;
+    border-radius: 10px 10px;
+    border: 0px;
+}
+#bt-1{
+    background:red;
+    color: #000;
+    border-radius: 10px 10px;
+    border: 0px;
+}
+#bt-2{
+    background:red;
+    color: #000;
+    border-radius: 10px 10px;
+    border: 0px;
+}
+p{
+    color: red;
+}
